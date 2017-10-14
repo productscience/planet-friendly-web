@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Why this matters
-permalink: /your-process/
+title: Why it matters
+permalink: /why-it-matters/
 ---
 ### More content on the way
 
