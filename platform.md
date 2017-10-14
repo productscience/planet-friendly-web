@@ -1,7 +1,8 @@
 ---
+
 layout: page
-title: About
-permalink: /about/
+title: Your Platform
+permalink: /your-platform/
 ---
 ### More content on the way
 

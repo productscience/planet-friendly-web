@@ -1,7 +1,8 @@
 ---
+
 layout: page
-title: About
-permalink: /about/
+title: Your Packets
+permalink: /your-packets/
 ---
 ### More content on the way
 

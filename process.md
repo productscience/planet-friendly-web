@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Your Process
+permalink: /your-process/
 ---
 ### More content on the way
 
