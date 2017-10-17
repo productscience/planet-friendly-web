@@ -1,0 +1,27 @@
+This might be out of date. Please look over the list of contributors on github if there's anyone missing.
+
+/* TEAM */
+
+	Chris Adams
+	Contact: wave [at] https://chrisadams.me.uk
+	Twitter: @mrchrisadams
+  Biz: https://productscience.co.uk
+	From: Adelaide, Australia, via London, England, and now Berlin, Germany.
+
+/* THANKS */
+
+  Chrius Hartgerink - @chartgerink
+  Yulia Startsev  - @ioctaptceb
+  Kathryyn Van Der Hing - @KaaathrynH
+  Jason Neylon  - @jasonneylon
+  Jack Townsend  - @jacktownsend_
+  Tim Frick  - @timfrick
+  James Smith  - @floppy
+
+/* SITE */
+
+	Language: English
+  Tech:
+  Jekyll for generating static HTML - jekyllrb.com
+  TachyonsCSS for nice small CSS - tachyons.io
+  Firebase for hosting - firebase.google.com

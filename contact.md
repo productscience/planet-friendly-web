@@ -3,6 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-### More content on the way
+### Getting in touch
 
-This content isn't here yet, but will be soon. In the meantime, you can sign up to hear when the first release of the guide is out.
+If you have questions about the Planet Friendly Web Guide, that aren't covered on the [contributing page](/contributing), the best person to contact is **Chris Adams**.
+
+You can reach him via email at chris@productscience.co.uk.
+
+Alternatively, he's reachable on on twitter as [@mrchrisadams](https://twitter.com/mrchrisadams)).
