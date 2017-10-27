@@ -4,7 +4,7 @@ title: Contribute to the Planet Friendly Web Guide
 permalink: /contributing/
 ---
 
-### Want get involved?
+### Want to get involved?
 
 That's great news - huzzah!
 
@@ -40,7 +40,9 @@ An example might look like:
 
 https://trello.com/c/elcYmSd7/8-why-where-you-source-power-matters
 
+### I want to do more to help!
 
+That's fantastic news - huzzah! You can see what we're focussing our efforts on  at any given point by consulting our [roadmap on github](https://github.com/productscience/planet-friendly-web/projects/1).
 
 ### If you have expertise in the field of CSR and environmental sustainability
 
@@ -51,8 +53,6 @@ If you're not comfortable with making contributions via github, that's totally o
 Alternatively, if you're up to a phone call or skype call to share your subject expertise instead of writing yourself, we can arrange a time for this.
 
 [Go to the Planet Friendly Web Guide contributor form](https://docs.google.com/forms/d/e/1FAIpQLSdQPnCVOOxvQABIO2lkXUONvLEnUmDg0XMw3e6itYudHQwT_w/viewform?usp=sf_link)
-
-
 
 ### If you are comfortable using github, markdown, or html/css
 
@@ -77,6 +77,6 @@ If you're comfortable interviewing users, or you're looking for practice doing s
 
 ### If you are up for reading early versions of the guide
 
-You might just be interested in reading versions of the guide as they're written, and giving feedback on the content and clarity. That's extremely valuable. You'll have an option to opt-in when signing up for the newsletter, or you can opt in, when fillig out the contributor form.
+You might just be interested in reading versions of the guide as they're written, and giving feedback on the content and clarity. That's extremely valuable. You'll have an option to opt-in when signing up for the newsletter, or you can opt in, when filling out the contributor form.
 
 [Go to the Planet Friendly Web Guide contributor form](https://docs.google.com/forms/d/e/1FAIpQLSdQPnCVOOxvQABIO2lkXUONvLEnUmDg0XMw3e6itYudHQwT_w/viewform?usp=sf_link)
