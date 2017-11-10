@@ -8,7 +8,7 @@ When someone mentions climate change to you, it might conjure up images of dirty
 
 It typically won't make you think of smiling tech CEOs walking around their datacentres, or slick websites as a source of emissions leading to climate change.
 
-In fact, for the most part, we tend to pin our hopes on IT and technology as a way out of this mess. While technology obviously has a huge part to play in the future, it's not fit for purpose in it's current state.
+In fact, for the most part, we tend to pin our hopes on IT and technology as a way out of this climate change related dystopia. While technology obviously has a huge part to play in the future, it's not fit for purpose in it's current state.
 
 I'm hoping that in this section, I can help you understand why, as people building the web, we might take the climate into account when we're making decisions about the digital products we build.
 
@@ -64,11 +64,17 @@ Flying, which is one we hear a lot about only shows up as a between 1 and 2 perc
 
 In the late 2010's though, things look different. If the internet was a country its emissions would be larger than California, and most US states, and most European countries. It's also growing faster than the previous fastest growing source, aviation, and by 2020, it will have doubled.
 
-So, what can we do about it? And where does the footprint occur? WE'll cover this in the next part when we introduce a [Mental Models](/mental-models) for thinking about this.
+So, what can we do about it? And where does the footprint occur? We'll cover this in the next part when we introduce a [Mental Model](/mental-model) for thinking about this.
+
+[Jump to your mental model](/mental-model)
 
 ##### Further Links
 
-- IT has a bigger footprint than the UK, and France, and most US states: [list of countries by GHG emissions](https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions), [list of US states by CO2 emissions](https://en.wikipedia.org/wiki/List_of_U.S._states_by_carbon_dioxide_emissions)
+_
+
+- IT has a bigger footprint than the UK, and France, and most US states:
+  - [list of countries by GHG emissions](https://en.wikipedia.org/wiki/List_of_countries_by_greenhouse_gas_emissions),
+  - [list of US states by CO2 emissions](https://en.wikipedia.org/wiki/List_of_U.S._states_by_carbon_dioxide_emissions)
 
 
 #### A very brief segway
