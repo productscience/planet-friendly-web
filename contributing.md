@@ -22,7 +22,7 @@ _You don't need to be an expert in climate change, or a ninja coder to help out 
 
 ### Who are we?
 
-We are a (tiny) group of friendly people, with an interest in the transformative power of the web, and in climate change. You can see a bit more in the contact page on https://www.planetfriendlyweb.com/about
+We are a (tiny) group of friendly people, with an interest in the transformative power of the web, and in climate change. You can see a bit more in the contact page on [about](https://www.planetfriendlyweb.com/about)
 
 ### How you can help
 
@@ -38,7 +38,9 @@ An example might look like:
 
 > What difference does it make to the carbon footprint of a site if it's powered by electricity generated from burning coal, compared to using renewables?
 
-https://trello.com/c/elcYmSd7/8-why-where-you-source-power-matters
+[Visit the Trello board and mark what you're interested in](https://trello.com/c/elcYmSd7/8-why-where-you-source-power-matters)
+
+
 
 ### I want to do more to help!
 
@@ -48,9 +50,9 @@ That's fantastic news - huzzah! You can see what we're focussing our efforts on 
 
 Much of this guide relies on data in reports, and papers, and in some cases, speaking directly to experts or practitioners. Given how fast technology changes, it's important to base the guide on up to date information, and if you know of more recent publications, we'd love to hear about them.
 
-If you're not comfortable with making contributions via github, that's totally okay - we'll help you with your first pull request.
+- If you're not comfortable with making contributions via github, that's totally okay - we'll help you with your first pull request.
 
-Alternatively, if you're up to a phone call or skype call to share your subject expertise instead of writing yourself, we can arrange a time for this.
+- Alternatively, if you're up to a phone call or skype call to share your subject expertise instead of writing yourself, we can arrange a time for this.
 
 [Go to the Planet Friendly Web Guide contributor form](https://docs.google.com/forms/d/e/1FAIpQLSdQPnCVOOxvQABIO2lkXUONvLEnUmDg0XMw3e6itYudHQwT_w/viewform?usp=sf_link)
 
