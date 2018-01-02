@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>{{ site.title}} -  {{ page.title }}</title>
+<title>{{ site.title }} -  {{ page.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/assets/tachyons.min.css">
 <link rel="stylesheet" href="/assets/pfw.css">
@@ -10,21 +10,23 @@
   {% include header.html %}
 
   <section class="bt bb bg-green pv3 pl5 pr5">
-    <h1 class="f-headline-ns lh-title measure white">Decarbonise The Web</h1>
+    <h1 class="f-headline lh-title measure white">Make the web green.</h1>
   </section>
 
   <section class="pv3 pl5 pr5">
 
-    <h2 class="f2 lh-title measure">The internet is a great thing. It is also the biggest machine on earth, and it runs mostly on coal, which is bad news for our climate.</h2>
+    <h2 class="f3 lh-title measure">The internet is a great thing. It is also the biggest machine on earth, and it runs mostly on coal, which is bad news for our climate.</h2>
 
-    <h2 class="f2 lh-title measure ph">While we might not be able to stop using the web, we can change how we build and power it, to make it planet friendly as well as user friendly.</h2>
+    <h2 class="f3 lh-title measure ph">While we might not be able to stop using the web, we can change how we build and power it, to make it planet friendly as well as user friendly.</h2>
   </section>
 
   <section class="bt pv2 pl5 pr5 bg-washed-green">
 
-    <h2 class="normal measure-wide lh-title">The <em>planet friendly web guide</em> is an open source, freely available guide, showing how you can do this, using an <a href="/mental-model">easy-to-understand mental model</a>, and established techniques from fields ranging from service design, to web performance optimisation.</h2>
+    <h2 class="normal measure-wide lh-title">The <em>planet friendly web guide</em> is an open source, freely available guide, combining an <a href="/mental-model">easy-to-understand mental model</a> to help you think through <em>what</em> you can do and why, with focussed guides showing <em>how</em> you can make these changes, drawing on techniques from fields ranging from service design, user experience, web performance optimisation, and technical architecture.</h2>
 
-    <p><a href="{% link why-it-matters.md %}">You can start at the beginning</a>, or jump straight to the main sections below
+    <p><a href="{% link content/why-it-matters.md %}">You can start at the beginning</a>,
+      or jump straight to the main sections below,
+      or <a href="{% link content/toc.html %}">see the full table of contents</a>.
     </p>
 
   </section>
@@ -34,21 +36,21 @@
     <section class="fl pr2 w-100 w-third-ns pb5">
       <h3 class="f2 measure mt0">Your Packets</h3>
       <p class="min-h2">Energy used to get data from your servers to your users.</p>
-      <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="{% link packets.md %}">Learn More</a>
+      <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="{% link content/packets.md %}">Learn More</a>
     </section>
 
     <section class="fl w-third-ns w-100 pr2">
       <h3 class="f2 measure mt0">Your Platform</h3>
       <p class="min-h2">Energy you use powering servers you control, to build and run the digital products you make.</p>
 
-      <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="{% link platform.md %}">Learn More</a>
+      <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="{% link content/platform.md %}">Learn More</a>
 
     </section>
     <section class="fl w-third-ns w-100 pr2">
       <h3 class="f2 measure mt0">Your Process</h3>
       <p class="min-h2">Energy use built into the way your organisation is set up to deliver digital products to your users.</p>
 
-      <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="{% link process.md %}">Learn More</a>
+      <a class="f6 link dim br2 ba bw1 ph3 pv2 mb2 dib black" href="{% link content/process.md %}">Learn More</a>
     </section>
 
   </section>
@@ -70,7 +72,7 @@
         </a>
     </div>
     <div class="fl w-100 w-25-ns">
-        <a href="{% link contributing.md %}"class="black-70 no-underline grow br5 b inline-flex items-center mr3 mb3 pv2 mt4">
+        <a href="{% link content/contributing.md %}"class="black-70 no-underline grow br5 b inline-flex items-center mr3 mb3 pv2 mt4">
           <img src="/assets/volunteer--128x128.png" style="width:4em;" class="mr2"  alt="">
           See how you can contribute to the guide
         </a>
