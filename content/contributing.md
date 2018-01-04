@@ -38,7 +38,7 @@ An example might look like:
 
 > What difference does it make to the carbon footprint of a site if it's powered by electricity generated from burning coal, compared to using renewables?
 
-[Visit the Trello board and mark what you're interested in](https://trello.com/c/elcYmSd7/8-why-where-you-source-power-matters)
+[Visit the Trello board and mark what you're interested in](https://trello.com/c/M4qkxjXs/20-how-to-use-this-board)
 
 
 
