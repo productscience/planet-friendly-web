@@ -6,4 +6,8 @@ install:
 	npm install
 	bundle install
 
+deploy:
+	jekyll build
+	firebase deploy
+
 .PHONY: install
