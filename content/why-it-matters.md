@@ -24,7 +24,7 @@ The conversation we're having about climate is not a new one, and since the mid-
 
 [^almost-all-countries]: Well, 191 out of 192 countries that make up the United Nations
 
-![2015 Paris Agreement](../assets/why-it-matters/04-21-unfccc-paris.jpg)
+![2015 Paris Agreement](/why-it-matters/04-21-unfccc-paris.jpg)
 
 And finally, after 21 goes at getting it right, in 2015 in Paris – more or less everyone agreed that _yes we definitely want to limit climate change_, and we also want to aim for to less than 2 degrees of global warming in total.
 
@@ -45,7 +45,7 @@ There are now a number of lovely looking, and sometimes daunting articles about 
 
 #### This is possible
 
-![Economy Growing with flat emissions](../assets/why-it-matters/global-carbon-emissions-flat-in-2016.png)
+![Economy Growing with flat emissions](/why-it-matters/global-carbon-emissions-flat-in-2016.png)
 
 According to the International Energy Agency, 2016 is the third year where global emissions didn’t increase, but the global economy still grew.
 
@@ -57,7 +57,7 @@ Because it’s taken this long to reach this turning point, as a civilisation, w
 
 This graph from [Robbie Andrew at CICERO Center for International Climate Research][robbie-andrew-mitigation-curves] shows, the longer we leave it, the harder it gets to reduce emissions to a safe point.
 
-![winning-to-slowly-robbie-andrew](../assets/why-it-matters/global_mitigation_curves.png)
+![winning-to-slowly-robbie-andrew](/why-it-matters/global_mitigation_curves.png)
 
 - If we started in the year 2000, we would have reduce emissions by around 3% per year to stay in a safe zone.
 - Starting this year in 2018, we now need to reduce emissions by 10 percent year on year.
@@ -70,7 +70,7 @@ So if we need to massively reduce our emissions, if we work in tech, how does ou
 
 ### The environmental impact of IT
 
-![sankey-diagram](../assets/why-it-matters/2010-emissions-sankey.jpg)
+![sankey-diagram](/why-it-matters/2010-emissions-sankey.jpg)
 
 This Sankey diagram from 2010 shows a rough breakdown of global greenhouse gas emissions, by sector and gas.
 
@@ -82,7 +82,7 @@ Agriculture is about 7%, and road transport is about 10%, like deforestation (fi
 
 Aviation, only shows up as a between 1 and 2 percent of global emissions. And in this diagram, IT doesn't even show up – it's just lumped in with the other categories, and we need to look to specialist reports to see its impact.
 
-![smart 2020 emissions for IT](../assets/why-it-matters/smart-2020-emissions.png)
+![smart 2020 emissions for IT](/why-it-matters/smart-2020-emissions.png)
 
 #### Finding a figure for emissions
 
