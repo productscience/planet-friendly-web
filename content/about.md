@@ -1,7 +1,5 @@
 ---
-layout: page
 title: About
-permalink: /about/
 ---
 ### What is the Planet Friendly Guide?
 

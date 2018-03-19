@@ -1,8 +1,5 @@
 ---
-
-layout: page
 title: Your Packets
-permalink: /your-packets/
 ---
 ### More content on the way
 
@@ -171,11 +168,6 @@ Even if these used the same energy per base station as earlier ones did, just ha
 If you make digital products, or websites, what this means is that as a greater proportion of your users use your products over mobile cellular connection, getting data to them becomes more energy intensive.
 
 Unless there's an explicit commitment to renewables from the infrastructure provides, this means greater CO2 emissions.
-
-### Making this measureable
-
-It's
-
 
 ### So, what can we do with this?
 

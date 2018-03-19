@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Table of contents
-permalink: /table-of-contents/
 ---
 
 ### How to use this book

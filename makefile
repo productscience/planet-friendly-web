@@ -1,13 +1,9 @@
 serve:
-	jekyll serve &\
-	browser-sync start --proxy 'localhost:4000' --files '_site' 'assets'
+	hugo serve -w
 
 install:
-	npm install
-	bundle install
+	brew install hugo
 
 deploy:
-	jekyll build
-	firebase deploy
 
 .PHONY: install

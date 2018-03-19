@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Your Process
-permalink: /your-process/
 ---
 ### More content on the way
 

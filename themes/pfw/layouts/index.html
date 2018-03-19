@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>{{ site.title }} -  {{ page.title }}</title>
+<title>Planet Friendly Web -  {{ .Title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/assets/tachyons.min.css">
-<link rel="stylesheet" href="/assets/pfw.css">
+<link rel="stylesheet" href="/css/tachyons.min.css">
+<link rel="stylesheet" href="/css/pfw.css">
 
 
 <body class="w-100 sans-serif bg-white">
 
-  {% include header.html %}
+  {{ partial "header.html" }}
 
   <section class="bt bb bg-green pv3 pl5 pr5">
     <h1 class="f-headline lh-title measure white mt3 mb3">Make the web green.</h1>
@@ -68,21 +68,21 @@
     <div class="fl w-100 w-25-ns github">
         <a href="https://github.com/productscience/planet-friendly-web"
         class="black-70 no-underline grow br5 b inline-flex items-center mr3 mb3 pv2 mt4">
-          <img src="/assets/github--128x128.png" style="height:4em;" class="mr2" alt="">
+          <img src="/images/github--128x128.png" style="height:4em;" class="mr2" alt="">
           Visit the project on github
         </a>
     </div>
     <div class="fl w-100 w-25-ns">
         <a href="{% link content/contributing.md %}"class="black-70 no-underline grow br5 b inline-flex items-center mr3 mb3 pv2 mt4">
-          <img src="/assets/volunteer--128x128.png" style="width:4em;" class="mr2"  alt="">
+          <img src="/images/volunteer--128x128.png" style="width:4em;" class="mr2"  alt="">
           See how you can contribute to the guide
         </a>
     </div>
 
   </section>
 
-  {% include mailing_list_form.html %}
-  {% include footer.html %}
+  {{ partial "mailing-list-form.html" }}
+  {{ partial "footer.html" }}
 
 </body>
 

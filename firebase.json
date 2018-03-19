@@ -1,9 +1,0 @@
-{
-  "hosting": {
-    "public": "_site",
-    "cleanUrls": true,
-    "ignore": [
-      "firebase.json"
-    ]
-  }
-}

@@ -1,8 +1,5 @@
 ---
-
-layout: page
 title: Your Platform
-permalink: /your-platform/
 ---
 ### More content on the way
 

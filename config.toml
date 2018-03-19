@@ -1,0 +1,4 @@
+baseURL = "http://planetfriendlyweb.org/"
+languageCode = "en-us"
+title = "Planet Friendly Web"
+theme = "pfw"

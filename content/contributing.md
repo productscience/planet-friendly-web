@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Contribute to the Planet Friendly Web Guide
-permalink: /contributing/
 ---
 
 ### Want to get involved?

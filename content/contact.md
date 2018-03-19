@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
 ---
 ### Getting in touch
 
