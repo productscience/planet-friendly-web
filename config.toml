@@ -1,4 +1,5 @@
-baseURL = "http://planetfriendlyweb.org/"
+# baseURL = "http://planetfriendlyweb.org/"
+canonifyurls = false
 languageCode = "en-us"
 title = "Planet Friendly Web"
 theme = "pfw"
