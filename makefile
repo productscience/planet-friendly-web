@@ -4,6 +4,7 @@ serve:
 install:
 	brew install hugo
 
-deploy:
+build:
+	hugo
 
 .PHONY: install
