@@ -1,5 +1,6 @@
 # baseURL = "http://planetfriendlyweb.org/"
 canonifyurls = false
+baseUrl="/"
 languageCode = "en-us"
 title = "Planet Friendly Web"
 theme = "pfw"
