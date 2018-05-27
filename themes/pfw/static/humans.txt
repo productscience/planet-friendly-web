@@ -10,7 +10,9 @@ This might be out of date. Please look over the list of contributors on github i
 
 /* THANKS */
 
-  Chrius Hartgerink - @chartgerink
+  Maja Kraljic - @_22nds
+  Maik Ros
+  Chris Hartgerink - @chartgerink
   Yulia Startsev  - @ioctaptceb
   Kathryyn Van Der Hing - @KaaathrynH
   Jason Neylon  - @jasonneylon
@@ -22,6 +24,6 @@ This might be out of date. Please look over the list of contributors on github i
 
 	Language: English
   Tech:
-  Jekyll for generating static HTML - jekyllrb.com
+  Hugo for generating static HTML - gohugo.com
   TachyonsCSS for nice small CSS - tachyons.io
-  Firebase for hosting - firebase.google.com
+  Netlify for hosting - netlify.com
