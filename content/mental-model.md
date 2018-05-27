@@ -14,9 +14,9 @@ What's more, different kinds of infrastructure have different power demands - so
 
 On top of that, different speeds of wireless connection _also_ use different amounts of power, so a relatively fast 4G connection typically uses more energy to download the same amount of data as a 3G. With a forthcoming move to 5G, connections are likely to use more power still, even before we take into account their typically reduced range, meaning we'll need more of base stations running to cover the same area.
 
-We look at this in more detail, and the causes, along with the strategies you can take to mitigate against this in [your packets](/your-packets), borrowing ideas disciplines like web performance optimisation, accessibility, and content design.
+We look at this in more detail, and the causes, along with the strategies you can take to mitigate against this in [your packets](/packets), borrowing ideas disciplines like web performance optimisation, accessibility, and content design.
 
-[Jump to your packets](/your-packets)
+[Jump to your packets](/packets)
 
 
 ### Platform
@@ -29,11 +29,11 @@ These include, what controlling the kinds of computing resources you use, and ch
 
 Choices you make about your product's technical architecture also affect how easily and quickly you can adjust the amount of resources you use directly.
 
-This is covered in more detail in [your platform](/your-platform), and in here, we look at how using virtualisation, containerisation, serverless/functions-as-a-service can help, as well as other idea from the devops toolbox, as well as server-side performance optimisation.
+This is covered in more detail in [your platform](/platform), and in here, we look at how using virtualisation, containerisation, serverless/functions-as-a-service can help, as well as other idea from the devops toolbox, as well as server-side performance optimisation.
 
 We also cover options for running infrastructure on renewable power, and what options you have when you don't have direct control over where power comes from.
 
-[Jump to your platform](/your-platform)
+[Jump to your platform](/platform)
 
 ### Process
 
@@ -45,6 +45,6 @@ We also emit CO2 when we burn fossil fuels to keep places we work well-lit and d
 
 Finally we build in large amounts of resource use (and money) into our products when we decide to spend lots of time and resources working on them without researching how useful they are our users.
 
-In here, [your process](your-process) we touch on ideas from service design, behaviour change, remote working and remote research practices, as well as agile product management.
+In here, [your process](process) we touch on ideas from service design, behaviour change, remote working and remote research practices, as well as agile product management.
 
-[Jump to your process](/your-process)
+[Jump to your process](/process)
