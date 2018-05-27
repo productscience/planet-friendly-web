@@ -20,7 +20,7 @@ _You don't need to be an expert in climate change, or a ninja coder to help out 
 
 ### Who are we?
 
-We are a (tiny) group of friendly people, with an interest in the transformative power of the web, and in climate change. You can see a bit more in the contact page on [about](https://www.planetfriendlyweb.com/about)
+We are a (tiny) group of friendly people, with an interest in the transformative power of the web, and in climate change. You can see a bit more in the contact page on [about](https://www.planetfriendlyweb.org/about)
 
 ### How you can help
 
