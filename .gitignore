@@ -1,6 +1,6 @@
 public
 .DS_Store
 node_modules
-
+.vuepress/dist/
 # don't track checkpoints with notebooks
 *checkpoint.ipynb

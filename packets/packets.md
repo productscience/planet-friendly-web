@@ -50,7 +50,7 @@ The mix of energy that goes into generating electricity differs wildly depending
 You can see this particularly clearly with the [electricity map project][electricity-map] - an open source interactive map, showing in realtime the energy mix (i.e. the different methods of power generation used) powering the national grids that various countries rely on.
 
 [electricity-map]:http://electricitymap.org/
-![Electricity Map](../assets/packets/electricity-map.png)
+![Electricity Map](/packets/electricity-map.png)
 
 When we look at this map, it gives us an idea of how clean the emissions are likely to be, on average for a country - for example we can see that in France, with its heavy reliance on nuclear energy, generating a kilowatt hour of electricity than Poland, which is heavily invested in coal.
 
@@ -193,7 +193,7 @@ One way to see this is by looking at sizes of the pages we visit in our browsers
 In August 2017 [Tammy Everts, the author of _Time Is Money -
 The Business Value of Web Performance_ ][speed-curve-page-blog], shared some analysis of the pageweight of sites in the HTTP Archive over time.
 
-![Speed Curve Page Bloat Stats](../assets/packets/speed-curve-page-bloat.png)
+![Speed Curve Page Bloat Stats](/packets/speed-curve-page-bloat.png)
 
 [speed-curve-page-blog]:https://speedcurve.com/blog/web-performance-page-bloat/
 

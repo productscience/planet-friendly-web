@@ -1,2 +1,0 @@
-# Redirect domain aliases to primary domain
-http://planetfriendlyweb.com/* http://planetfriendlyweb.org/:splat 301!
