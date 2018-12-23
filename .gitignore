@@ -4,3 +4,5 @@ node_modules
 
 # don't track checkpoints with notebooks
 *checkpoint.ipynb
+
+_site

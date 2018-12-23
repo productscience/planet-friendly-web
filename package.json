@@ -1,0 +1,25 @@
+{
+  "name": "planet-friendly-web",
+  "version": "1.0.0",
+  "description": "Hi there! Welcome to the source repo for the *planet friendly web guide*, an online guide to help you understand how digital products like web sites and apps create an environmental footprint, and what you can do as a maker of them to change this.",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^0.14.5"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/productscience/planet-friendly-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/productscience/planet-friendly-web/issues"
+  },
+  "homepage": "https://github.com/productscience/planet-friendly-web#readme"
+}
