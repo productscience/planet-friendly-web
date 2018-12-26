@@ -10,7 +10,7 @@
     "markdown-it-footnote": "^3.0.1"
   },
   "scripts": {
-    "start": "eleventy",
+    "start": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
