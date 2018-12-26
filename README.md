@@ -20,23 +20,44 @@ Also, there's been a perception that some measures have been harder to adopt wit
 
 Finally, there's a fair few other reasons, but one of the main ones is that information for doing this is split across a number of different areas of expertise, and it's hard to find it freely accessible in one place.
 
-### Okay, so that's the goal?
+### Contributing
 
-The goal of the project is to reduce the environmental impact of the web.
+If you're comfortable with web development:
 
-To do that, making how to do this freely and easily accessible in a single place seems a good start.
 
-### Nice how can I help?
+#### Installation
 
-In the coming weeks, an outline for a guide will be added, and sections fleshed out in more detail.
+Run make to install the dependencies with `npm`.
 
-When that's there, it'll be easier to get involved in creating the guide, but right now, the easiest thing to if you're interested by is to can sign up to the mailing list below and hear when there's something ready for you:
 
-[http://planetfriendly.productscience.co.uk](http://planetfriendly.productscience.co.uk)
+```
+make
+```
 
-### Hey, who's behind this by the way?
 
-Oh, I'm [Chris](http://chrisadams.me.uk). I run a small company, [Product Science](https://productscience.co.uk), and I'm working to take the idea of [Planet Friendly Web Development](http://planetfriendly.productscience.co.uk), that I've been speaking about in various conferences around Europe and online, and make the ideas as easy to apply as possible. If you'd like to help, I'd love to hear from you.
+#### Usage
+
+Run `make serve` in the project root to the site at http://localhost:8080, and rebuild everytime there is a change detected.
+
+```
+make serve
+```
+
+
+
+### Using Glitch
+
+You can run this project yourself on  glitch, by remixing the project at:
+
+https://glitch.com/~planetfriendlyweb
+
+### Using Github
+
+Fork this project and submit a PR.
+
+
+
+
 
 #### Boring but necessary licensing stuff
 
