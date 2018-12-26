@@ -1,0 +1,11 @@
+{
+  "title": "Planet Friendly Web Guide",
+  "url": "http://planetfriendlyweb.org/",
+  "baseurl": "",
+  "repo": "http://github.com/productscience/planet-friendly-web",
+  "comments": false,
+  "author": {
+    "name": "Chris Adams"
+  },
+  "og_locale": "en_UK"
+}

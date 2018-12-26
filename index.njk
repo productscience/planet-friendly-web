@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Planet Friendly Web -  {{ .Title }}</title>
+
+<title>{{ renderData.title or title or metadata.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/tachyons.min.css">
 <link rel="stylesheet" href="/css/pfw.css">
@@ -8,10 +9,11 @@
 
 <body class="w-100 sans-serif bg-white">
 
-  {{ partial "header.html" }}
+  {% include "partials/header.njk" %}
+
 
   <section class="bt bb bg-green pv3 pl5 pr5">
-    <h1 class="f-headline lh-title measure white mt3 mb3">Make the web green.</h1>
+    <h1 class="f-headline lh-title measure white mt3 mb3">Make the web green!</h1>
   </section>
 
   <section class="pv3 pl5 pr5">
@@ -61,28 +63,28 @@
 
 
     <div class="fl w-100 w-50-ns pr4">
-      <h3>An open project, built for you, by you.</h3>
+      <h3>An open project, built for you, by me.</h3>
       All the content in the <em>Planet Friendly Web Guide</em> is available under the Creative Commons Attribution Share Alike 4.0 license, and the source code for this site, and all the text is freely avaiable on Github.
     </div>
 
     <div class="fl w-100 w-25-ns github">
         <a href="https://github.com/productscience/planet-friendly-web"
         class="black-70 no-underline grow br5 b inline-flex items-center mr3 mb3 pv2 mt4">
-          <img src="/images/github--128x128.png" style="height:4em;" class="mr2" alt="">
+          <img src="/img/github--128x128.png" style="height:4em;" class="mr2" alt="">
           Visit the project on github
         </a>
     </div>
     <div class="fl w-100 w-25-ns">
         <a href="/contributing/"class="black-70 no-underline grow br5 b inline-flex items-center mr3 mb3 pv2 mt4">
-          <img src="/images/volunteer--128x128.png" style="width:4em;" class="mr2"  alt="">
+          <img src="/img/volunteer--128x128.png" style="width:4em;" class="mr2"  alt="">
           See how you can contribute to the guide
         </a>
     </div>
 
   </section>
 
-  {{ partial "mailing-list-form.html" }}
-  {{ partial "footer.html" }}
+  {%- include "partials/mailing-list-form.njk" -%}
+  {%- include "partials/footer.njk" -%}
 
 </body>
 

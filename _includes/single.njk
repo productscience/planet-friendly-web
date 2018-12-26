@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>PFW - {{ .Title }}</title>
+<title>{{ renderData.title or title or metadata.title }}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/css/tachyons.min.css">
 <link rel="stylesheet" href="/css/pfw.css">
@@ -10,20 +10,20 @@
 
 <body class="w-100 sans-serif bg-white">
 
-    {{ partial "header.html" }}
+    {% include "partials/header.njk" %}
+
     <section class="bt bb bg-green pv3 pl5 pr5">
-        <h1 class="f1 lh-title measure white">{{ .Title }}</h1>
+        <h1 class="f1 lh-title measure white">{{ title }}</h1>
     </section>
 
-    {{ partial "sorry-its-not-done-yet.html" }}
+    {% include "partials/sorry-its-not-done-yet.njk" %}
 
     <section class="center f4 pa3 ph5-ns page-content">
-        {{ .Content | markdownify }}
+        {{ content | safe }}
     </section>
 
-
-    {{ partial "mailing-list-form.html" }}
-    {{ partial "footer.html" }}
+    {% include "partials/mailing-list-form.njk" %}
+    {% include "partials/footer.njk" %}
 
 </body>
 
