@@ -2,12 +2,22 @@ module.exports = function(eleventyConfig) {
 
   // register these for copying content across
   // if we used a pipeline tool, like webpack, we wouldn't use these (I think)
+  eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+
+  // used for content images
+  eleventyConfig.addPassthroughCopy("figures");
+
+  // used for Dat and others
+  eleventyConfig.addPassthroughCopy(".well-known");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
+  let markdownFootnote = require("markdown-it-footnote");
+
+
   let options = {
     html: true,
     breaks: true,
@@ -21,6 +31,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
+    .use(markdownFootnote)
   );
 
   return {

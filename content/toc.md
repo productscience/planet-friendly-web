@@ -14,6 +14,25 @@ This guide is structured in three main sections. While the first two sections ar
 - Section two presents a mental model to help think about the issue, and see how digital products you use or make might create an environmental impact. It also presents a way to measure this.
 
 - Section three consists of guides showing how to make meaningful steps to reduce this impact, based on the tools you may use, and the stack of technologies used to build your digital product or service, with estimates of the impact of each step.
-
+<!-- 
 ## Full table of contents
 
+
+- ### [Why it matters](/)
+  - [How the Green house effect works](/why-it-matters)
+  - [IT's part to play in emissions](/why-it-matters)
+- ### [The mental model](/mental-model)
+  - #### A way to calculate this
+  - #### [Your Packets](/packets)
+    - Data shifted
+  - #### [Your Platform](/platform)
+    - Source
+    - CPU hours burned
+  - #### [Your Process](/process)
+    - Person-hours
+    - Person miles
+
+
+<!-- - ### Recipes
+  - #### Building a web app, with Python and Django
+  - #### Building with a PHP based CMS like Wordpress -->
