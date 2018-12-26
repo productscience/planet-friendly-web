@@ -1,5 +1,8 @@
 ---
 title: Table of contents
+permalink: toc/index.html
+layout: single.njk
+
 ---
 
 ### How to use this book
@@ -14,22 +17,3 @@ This guide is structured in three main sections. While the first two sections ar
 
 ## Full table of contents
 
-{{ page.path }}
-{% link content/why-it-matters.md %}
-
-- ### [Why it matters]({{ site.baseurl }})
-  - [How the Green house effect works]({% link content/why-it-matters.md %})
-  - [IT's part to play in emissions]({% link content/why-it-matters.md %})
-- ### [The mental model]({% link content/mental-model.md %})
-  - #### A way to calculate this
-  - #### [Your Packets]({% link content/packets.md %})
-    - Data shifted
-  - #### [Your Platform]({% link content/platform.md %})
-    - Source
-    - CPU hours burned
-  - #### [Your Process]({% link content/process.md %})
-    - Person-hours
-    - Person miles
-- ### Recipes
-  - #### Building a web app, with Python and Django
-  - #### Building with a PHP based CMS like Wordpress

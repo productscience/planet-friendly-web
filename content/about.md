@@ -1,5 +1,7 @@
 ---
 title: About
+layout: single.njk
+permalink: about/index.html
 ---
 ### What is the Planet Friendly Guide?
 

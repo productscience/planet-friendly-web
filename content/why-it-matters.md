@@ -1,5 +1,8 @@
 ---
 title: Why it matters
+permalink: why-it-matters/index.html
+layout: single.njk
+
 ---
 
 When someone mentions climate change to you, it might conjure up images of dirty great coal fired power stations, oil wells and gas guzzling cars, or deforestation in the Amazon.

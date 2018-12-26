@@ -1,5 +1,8 @@
 ---
 title: A mental model for thinking about the impact of a digital product
+permalink: mental-model/index.html
+layout: single.njk
+
 ---
 
 When you think about how a digital product or website creates an environmental impact, you can think of it creating it in three main ways - through the **Packets** of data it sends to users, the **Platform** the product runs on, and the **Process** used to make the product itself.

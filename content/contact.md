@@ -1,5 +1,8 @@
 ---
 title: Contact
+layout: single.njk
+permalink: contact/index.html
+
 ---
 ### Getting in touch
 
