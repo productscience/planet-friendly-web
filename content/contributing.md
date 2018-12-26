@@ -1,5 +1,8 @@
 ---
 title: Contribute to the Planet Friendly Web Guide
+permalink: contributing/index.html
+layout: single.njk
+
 ---
 
 ### Want to get involved?

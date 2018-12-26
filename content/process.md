@@ -1,5 +1,8 @@
 ---
 title: Your Process
+permalink: process/index.html
+layout: single.njk
+
 ---
 ### More content on the way
 

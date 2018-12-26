@@ -1,5 +1,8 @@
 ---
 title: Your Packets
+permalink: packets/index.html
+layout: single.njk
+
 ---
 ### More content on the way
 

@@ -1,5 +1,8 @@
 ---
 title: Your Platform
+permalink: platform/index.html
+layout: single.njk
+
 ---
 ### More content on the way
 
